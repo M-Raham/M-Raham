@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Front-End Developer | 🎓 5th Semester CS Student | 🔥 Aspiring Full-Stack Developer<br>Hey there! I'm a university student in my 5th semester, currently working as a front-end developer at a software house. My goal is to become a full-stack web developer while diving into the exciting world of Data Science, AI, and Machine Learning.<br>🌟 Tech Stack: React.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI 📌 Learning: Backend Development, GraphQL, AI & ML 💡 Passionate about creating smooth, interactive UIs and exploring the future of tech!
+🚀 MERN Developer | 🎓 BSCS Student <br>Hey there! I'm a university student in my 5th semester, currently working as a front-end developer at a software house. My goal is to become a full-stack web developer while diving into the exciting world of Data Science, AI, and Machine Learning.<br>🌟 Tech Stack: React.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI 📌 Learning: Backend Development, GraphQL, AI & ML 💡 Passionate about creating smooth, interactive UIs and exploring the future of tech!
 
 
 ## 🌐 Socials:
