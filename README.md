@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 MERN Developer | 🎓 BSCS Student <br>Hey there! I'm a university student in my 5th semester, currently working as a front-end developer at a software house. My goal is to become a full-stack web developer while diving into the exciting world of Data Science, AI, and Machine Learning.<br>🌟 Tech Stack: React.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI, MongoDB, Express.js, Node.js, GraphQL. AI & ML Enthusiast 💡 Passionate about creating smooth, interactive UIs and exploring the future of tech!
+🚀 MERN Developer | 🎓 BSCS Student <br>Hey there! I'm a university student, currently working as a front-end developer at a software house. I'm really pssionate about diving into the exciting world of Data Science, AI, and Machine Learning.<br>🌟 Tech Stack: React.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI, MongoDB, Express.js, Node.js, GraphQL.💡 Passionate about creating smooth, interactive UIs and exploring the future of tech!
 
 
 ## 🌐 Socials:
